@@ -6,7 +6,7 @@
 require_once 'spout-master/src/Spout/Autoloader/autoload.php';
 
 use Box\Spout\Reader\Common\Creator\ReaderEntityFactory;
-$filePath = 'Cards Against Humanity - test.xlsx';
+$filePath = 'Cards Against Humanity - kopie.xlsx';
 //$filePath = 'test.xlsx';
 $reader = ReaderEntityFactory::createXLSXReader();
 
@@ -150,5 +150,5 @@ foreach ($reader->getSheetIterator() as $sheet){
 //        $totalCardDeck[$sheet->getName()] = $CardDeck;
     }
 }
-//print_r($totalCardDeck);
+//print_r($sheet->getName());
 $reader->close();
