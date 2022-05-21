@@ -35,3 +35,5 @@ In general, people considering making something similar to our game need to be m
 - You cannot use our copyrighted material (the text of our cards) to generate any sort of revenue.
 
 ```
+
+See the link to the https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
