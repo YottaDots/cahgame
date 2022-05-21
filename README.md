@@ -22,3 +22,16 @@ Just download the files and you have a full working example. If needed you can r
 - Third it goes through the sheet again and now collects all the cards and extra invformation like version or comments. Taking into account the start cell and the end cell (maxcolumn and maxrow).
 -- Fourth it saves the information in the database
 ```
+
+## Licence defined by Cards Against Humanity
+Be aware that people made these cards and earn money with them, so making any money with this script or information is forbidden. The following was said by CAH:
+
+``` text
+In general, people considering making something similar to our game need to be mindful that the following things are prohibited:
+
+- You cannot use any of our trademarks, which include the name of the game, the two-card or three-card logo, etc.-
+- You cannot call your thing “__________ Against Humanity,” or “Cards Against __________,” or any other name that might cause confusion with our game or brand (even if you disclaim any association with Cards Against Humanity on your site or on your product).
+- You cannot use our “trade dress.” This means the design of your product must not cause confusion in the marketplace regarding affiliation with (or origination from) our brand and products.
+- You cannot use our copyrighted material (the text of our cards) to generate any sort of revenue.
+
+```
